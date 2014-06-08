@@ -5828,4 +5828,7 @@ td.visible-print {
     display: none !important;
   }
 }
+.navbar-shadow {
+  box-shadow: 0 10px 6px -6px #777;
+}
 /*# sourceMappingURL=bootstrap.css.map */
